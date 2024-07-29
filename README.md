@@ -25,7 +25,6 @@ I am a passionate Full Stack Developer based in Ahmedabad with a strong focus on
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SCSS" /></a>
 </p>
 
-
 ## 💼 Professional Experience
 
 ### Software Engineer at [Gamezop](https://business.gamezop.com)
@@ -34,7 +33,7 @@ I am a passionate Full Stack Developer based in Ahmedabad with a strong focus on
 - Collaborated with design and backend teams to integrate complex features and ensure a seamless user experience.
 - Implemented advanced state management and optimization techniques to enhance application scalability and performance.
 
-### Frontend Engineer at [Rephrase.ai](https://rephrase.ai)
+### Frontend Engineer at [Rephrase.ai](https://rephrase.ai) (Acquired by Adobe)
 *July 2022 – October 2023*
 - Led the migration of the codebase from Flow to TypeScript, significantly improving type safety and code maintainability.
 - Enhanced video playback and animation features, which led to a more engaging and interactive user experience.
